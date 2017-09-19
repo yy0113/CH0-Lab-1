@@ -4,6 +4,7 @@
 int main(void)
 {
 	printf("welcome to c!\n");
+	printf("My name is Kevin");
 	system("pause");
 	return 0;
 	 
